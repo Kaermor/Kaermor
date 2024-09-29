@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaermor
 - 👀 I’m telecom engineer. Now I'm interested in software development and do my first steps in this way.
-- 🌱 I’m currently learning Kotlin for Android and algorithms as first one, and also Python and C++ as alternatives. 
+- 🌱 I’m currently on my studing way C++ software developer. 
 
 <!---
 - 💞️ I’m looking to collaborate on ...

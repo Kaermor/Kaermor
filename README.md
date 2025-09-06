@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Kaermor
-- 👀 I’m telecom engineer.
+- 👀 I’m programmer and experienced telecom engineer.
 - 🌱 And I’m on my way C++ software developer.
